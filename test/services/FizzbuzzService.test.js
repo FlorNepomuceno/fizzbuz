@@ -4,7 +4,7 @@ describe("Test para FizzbuzzService", () => {
     test("Calcular trick con resultado en numero", () => {
         const explorer1 = { name: "Dalia", score: 1};
         const sinFizzbuzz = FizzbuzzService.applyValidationInExplorer(explorer1);
-        expect(sinFizzbuzz.trick).toBe(4)
+        expect(sinFizzbuzz.trick).toBe(1)
     })
     test("Calcular trick FIZZ", () => {
         const explorer3 = { name: "Flor", score: 3 };
