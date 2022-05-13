@@ -9,6 +9,6 @@
   "author": "FlorNepomuceno",
   "license": "ISC",
   "devDependencies": {
-    "jest": "^28.1.0"
+    "jest": "^26.0.0"
   }
 }
